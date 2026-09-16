@@ -1,6 +1,6 @@
 # BLS Portugal Morocco — Deadline Monitor
 
-A GitHub Actions Python monitor that checks the BLS Portugal Morocco page, extracts the next open-day deadline, compares it with persistent state, and sends Telegram notifications.
+A GitHub Actions Python monitor that checks the BLS Portugal Morocco page, extracts the next  open-day deadline, compares it with persistent state, and sends Telegram notifications.
 
 ## Features
 
